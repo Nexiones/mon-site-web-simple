@@ -1,6 +1,36 @@
 # Mon site web Simple
 
 Ce dépôt contient un exemple simple de site web personnel avec des fichiers HTML, CSS et JavaScript basiques.
+<!-- TOC START -->
+- [Contenu](#contenu)
+- [Comment l'utiliser](#comment-lutiliser)
+- [Objectif :](#objectif-)
+- [Pré-requis : Installer Git Bash](#pré-requis-installer-git-bash)
+  - [Étape 1 : Créer le dossier du projet](#étape-1-créer-le-dossier-du-projet)
+  - [Étape 2 : Créer les fichiers de base](#étape-2-créer-les-fichiers-de-base)
+  - [Étape 3 : Initialiser le dépôt Git](#étape-3-initialiser-le-dépôt-git)
+  - [Résumé des commandes utilisées](#résumé-des-commandes-utilisées)
+  - [Ajouter les fichiers à Git](#ajouter-les-fichiers-à-git)
+  - [Vérifier les fichiers suivis](#vérifier-les-fichiers-suivis)
+  - [Valider (commit) les fichiers](#valider-commit-les-fichiers)
+  - [Récapitulatif du workflow](#récapitulatif-du-workflow)
+- [`.gitignore`](#gitignore)
+  - [Étape 1 : Créer le fichier config.txt](#étape-1-créer-le-fichier-configtxt)
+  - [Étape 2 : Créer le fichier .gitignore](#étape-2-créer-le-fichier-gitignore)
+  - [Étape 3 : Configurer .gitignore pour ignorer config.txt](#étape-3-configurer-gitignore-pour-ignorer-configtxt)
+  - [Étape 4 : Vérifier l’ignorance par Git](#étape-4-vérifier-lignorance-par-git)
+  - [Astuce : Si le fichier était déjà suivi par Git](#astuce-si-le-fichier-était-déjà-suivi-par-git)
+  - [Étape 1 : Modifier un fichier](#étape-1-modifier-un-fichier)
+  - [Étape 2 : Vérifier les modifications](#étape-2-vérifier-les-modifications)
+  - [Étape 3 : Ajouter les fichiers modifiés à l’index (au commit)](#étape-3-ajouter-les-fichiers-modifiés-à-lindex-au-commit)
+  - [Étape 4 : Commit des modifications](#étape-4-commit-des-modifications)
+  - [Étape optionnelle : Visualiser les modifications](#étape-optionnelle-visualiser-les-modifications)
+  - [Tableau récapitulatif](#tableau-récapitulatif)
+- [Afficher l'historique des commits](#afficher-lhistorique-des-commits)
+- [Cycle de base Git (schématisé en étapes simples)](#cycle-de-base-git-schématisé-en-étapes-simples)
+  - [Modifier un fichier](#modifier-un-fichier)
+  - [Comparer les modifications avec la commande `git diff`](#comparer-les-modifications-avec-la-commande-git-diff)
+<!-- TOC END -->
 
 ## Contenu
 
